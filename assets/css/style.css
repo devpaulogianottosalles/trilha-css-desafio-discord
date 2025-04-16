@@ -206,6 +206,7 @@ button:hover, #btn-download-windows:hover, #btn-open-navigator:hover{
 
     .sec-4 {
         flex-direction: column-reverse;
+        text-align: center;
     }
 
     .main-section-content {
